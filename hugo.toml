@@ -224,10 +224,10 @@ mainSections = []
   summaryPlainify = false
   disableThemeInject = false
   [params.author]
-    name = ""
-    email = ""
-    link = ""
-    avatar = ""
+    name = "luqiCraft"
+    email = "lujianuse@163.com"
+    link = "https://luqi678.github.io/luqicraft"
+    avatar = "images/avatar.jpeg"
   [params.gitInfo]
     repo = ""
     branch = "main"
@@ -348,7 +348,7 @@ mainSections = []
       enable = true
       gravatarEmail = "lujianuse@163.com"
       avatarURL = "images/avatar.jpeg"
-      avatarMenu = ""
+      avatarMenu = "about"
       title = "你好，我是路奇 👋"
       subtitle = "跟随在优秀的人背后"
       typeit = true
