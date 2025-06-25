@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "D:/Users/2405051/Desktop/同步/4.Synch/ObisidianVault/Diary/03-Projects/06-HugoBlog",
+	"sourceRoot": "D:/helloword/luqi678/luqi-blog",
 	"sources": [
 		"themes/FixIt/assets/css/style.scss",
 		"themes/FixIt/assets/css/_variables.scss",
