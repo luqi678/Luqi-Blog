@@ -52,14 +52,35 @@ hugo version
 
 ## 启动命令
 ```cmd
-hogo server
+hugo server
 ```
 
+## 备注
+
+在markdown添加引用图片方式为
+
+```
+[](/images/xxx.png)
+```
+
+images文件夹目录在 根目录/static 下新建 
+
+域名头 可加可不加 但是 路径开头/ 不能少 比如
+
+```
+[](/lujiancraft/images/xxx.png)
+```
+
+
+
+
+
+
+
 ## 引用
-[基于EasyExcel+线程池+定时轮询服务解决POI文件导出大量数据时的内存溢出及超时问题](03-Projects/05-语雀/download/积累/项目亮点&难点/基于EasyExcel+线程池+定时轮询服务解决POI文件导出大量数据时的内存溢出及超时问题.md)
 
 ---
 
-> 作者:   
+> 作者: [luqiCraft](https://luqi678.github.io/luqicraft)  
 > URL: https://luqi678.github.io/luqicraft/posts/%E5%9F%BA%E4%BA%8Ehugo%E4%BD%BF%E7%94%A8fixlt%E4%B8%BB%E9%A2%98%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/  
 
